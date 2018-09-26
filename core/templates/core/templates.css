@@ -1,0 +1,26 @@
+.formatarCaixasDeFormulario{
+    width:1000px;
+    height:1000px;
+  }
+    .formatarGeral{
+    width:500px;
+    height:500px;
+    text-align: center;
+    background-align: center;
+  }
+    .MudarCor{
+    background-color:green;
+    color: black;
+    }
+    .MudarCor2{
+    background-color:silver;
+    color: black;
+     }
+   .formatarSFA{
+    font-family: Arial;
+    color: red;
+    font-size:30px;
+    }
+
+ .formatarSFA{color:red;}
+   
